@@ -1,5 +1,5 @@
-### Project 2 - Ames Housing Data and Kaggle Challenge
----
+ Ames Housing Data and Kaggle Challenge
+
 In this project I examined a comprehensive housing dataset from the city of Ames in Iowa, USA ([source](https://www.kaggle.com/c/dsi-us-6-project-2-regression-challenge/overview)). Homeowners looking to increase the value of their homes often spend too much on remodeling and don't get the return on investment when selling the house. On the other hand, people looking to buy houses want to get the best house possible given a budget. The goal of this project is to address some of these concerns, specifically:
 - what features add the most value to a home, and which hurt home values the most?
 - given a set of features, what is the expected sale price of a house?
